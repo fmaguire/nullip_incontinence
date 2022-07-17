@@ -1,4 +1,7 @@
-# Nullip Incontinence Analysis Code
+# Nullip Incontinence Analysis and Plotting Code
+
+[![DOI](https://zenodo.org/badge/514973093.svg)](https://zenodo.org/badge/latestdoi/514973093)
+
 
 This repository contains all the analysis and plotting code used for the manuscript:
 
